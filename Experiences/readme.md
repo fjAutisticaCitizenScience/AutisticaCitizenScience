@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
 
+## Live Demo
+
+The experiences application is deployed and accessible on Heroku. Please click this [Link](https://fjautisticaexperiences.herokuapp.com/) to access the app.
+
 # Development Prerequisites
 
 ## Project installation
@@ -20,13 +24,16 @@ To do that we can use a simple naming convention. By adding a .tns before the fi
 
 This is further discussed [here](https://blog.angular.io/apps-that-work-natively-on-the-web-and-mobile-9b26852495e7)
 
-## Live Demo
 
-The experiences application is deployed and accessible on Heroku. Please click this [Link](https://fjautisticaexperiences.herokuapp.com/) to access the app.
-
-## Development server
+## Development server (Web view)
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Deploying/Debugging to mobile
+
+iOS deploy using Nativescript: tns run ios --bundle
+
+Android deploy using Nativescript: tns run android --bundle
 
 ## Code scaffolding
 
