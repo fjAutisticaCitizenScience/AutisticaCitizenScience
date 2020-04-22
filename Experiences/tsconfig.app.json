@@ -4,13 +4,20 @@
     "outDir": "./out-tsc/app",
     "types": [
       "node"
-    ]
+    ],
+    "paths": {
+      "@src/*": [
+        "src/*.web",
+        "src/*"
+      ]
+    }
   },
-  "include": [
-    "src/**/*.ts"
-  ],
   "exclude": [
     "src/test.ts",
     "src/**/*.spec.ts"
+  ],
+  "files": [
+    "src/main.ts",
+    "src/polyfills.ts"
   ]
 }

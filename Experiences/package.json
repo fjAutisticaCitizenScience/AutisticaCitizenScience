@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "Notes": "Copy into repository root for Heroku Deployment",
   "scripts": {
+    "android": "tns run android",
+    "ios": "tns run ios",
+    "mobile": "tns run",
+    "preview": "tns preview",
     "ng": "ng",
     "start": "ng serve",
     "startprod": "ng serve --aot=true --prod=true",
@@ -20,6 +24,11 @@
   },
   "private": true,
   "dependencies": {
+    "nativescript-angular": "~8.20.0",
+    "@nativescript/theme": "~2.2.1",
+    "reflect-metadata": "~0.1.12",
+    "tns-core-modules": "~6.3.0",
+    "tslib": "^1.9.0",
     "@angular/animations": "~8.0.1",
     "@angular/cdk": "^8.2.1",
     "@angular/cli": "~8.0.4",
@@ -35,18 +44,20 @@
     "primeicons": "^2.0.0",
     "primeng": "^8.0.3",
     "rxjs": "~6.4.0",
-    "tslib": "^1.9.0",
     "typescript": "~3.4.3",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
+    "nativescript-dev-webpack": "~1.4.0",
+    "@nativescript/schematics": "^1.0.0",
+    "@nativescript/tslint-rules": "~0.0.5",
     "@angular-devkit/build-angular": "~0.800.0",
     "@angular/cli": "~8.0.4",
     "@angular/compiler-cli": "~8.0.1",
     "@angular/language-service": "~8.0.1",
-    "@types/node": "~8.9.4",
     "@types/jasmine": "~3.3.8",
     "@types/jasminewd2": "~2.0.3",
+    "@types/node": "~8.9.4",
     "codelyzer": "^5.0.0",
     "jasmine-core": "~3.4.0",
     "jasmine-spec-reporter": "~4.2.1",
@@ -59,5 +70,8 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.4.3"
+  },
+  "nativescript": {
+    "id": "org.nativescript.ngsample"
   }
 }
