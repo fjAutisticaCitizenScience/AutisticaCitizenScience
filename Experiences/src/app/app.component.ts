@@ -1,6 +1,13 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { ModalController, ModalType } from "./classes/modalController.class";
 import { DataService } from './services/data.service';
+import { GalleryItem } from './classes/galleryitem.class';
+import { AddExperienceInputArea } from './components/addexperience-inputarea/addexperience-inputarea.component';
+import { Footer } from './components/footer/footer.component';
+import { HamburgerMenu } from "./components/hamburgermenu/hamburgermenu.component"; 
+import { Hero } from './components/hero/hero.component';
+import { Header } from './components/header/header.component';
+import { PairedDownSecuredEngagement } from "./components/paireddownsecuredengagement/paireddownsecuredengagement.component";
 import { stat } from 'fs';
 
 @Component({
@@ -8,8 +15,9 @@ import { stat } from 'fs';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
 
+  componentGalleryItems: GalleryItem[];
   currentPageID: string;
   loginStatus: number;
   mainStyles: any;
@@ -36,6 +44,21 @@ export class AppComponent {
     this.Dataservice.ModalController.subscribe(controller =>{
       this.itemModal = controller
     })
+
+    
+  }
+
+  ngOnInit(){
+
+    //An array of GalleryItems to display in the Component Gallery.
+    this.componentGalleryItems = [
+      new GalleryItem("Hero", Hero,{ title:"Welcome to the Autistica Citizen Platform", body: "The project tries to improve the environment from community input"}),
+      new GalleryItem("Header", Header, {}),
+      new GalleryItem("Hamburger Menu", HamburgerMenu, {}),
+      new GalleryItem("Footer", Footer, {}),
+      new GalleryItem("Paired Down Secured Engagement", PairedDownSecuredEngagement, {}),
+      new GalleryItem("Add Experience Input Area", AddExperienceInputArea, {}),
+    ]
   }
 
   updateLoginStatus(status: number)
