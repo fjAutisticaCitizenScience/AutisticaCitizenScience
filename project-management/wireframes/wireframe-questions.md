@@ -4,10 +4,9 @@ This file contains questions for the wider community on the wireframes that have
 
 **Small Glossary of terms:**
 
-Github is a tool where people build software<br>
-Sprint is a short, time-boxed period of work<br>
-Wireframe is a layout of a web page that demonstrates what elements will exist on key pages<br>
-
+Github is a tool where people build software. 
+Sprint is a short, time-boxed period of work
+Wireframe  is a layout of a web page that demonstrates what elements will exist on key pages
 
 # Feedback Options – Public & Private
 
