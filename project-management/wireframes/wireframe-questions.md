@@ -274,6 +274,8 @@ Persistent 11:24 https://youtu.be/4f6kn5HLysc?t=11m24s**
 Closed issues, progressed, opened, challenges and blockers
 Questions focus on the content within the video and engaging with the community further.
 
+#
+
 **Q1. How can we engage with the community more effectively in general?**
 
 **Time Stamp:** NA<br>
@@ -480,6 +482,8 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 **Sprint 03 Goal: On boarding of project development team and clarification of community feedback process**
 
 **Sprint 03 = https://youtu.be/IG-Vq8m8ELA**
+
+#
 
 **Sprint 3 Question**
 
