@@ -47,7 +47,7 @@ Please email the questions and answers to either or both Georgia Aitkenhead at g
 
 
 
-**Sprints 1 – 3 Community Questions – Category Mapped Version**
+## Sprints 1 – 3 Community Questions – Category Mapped Version
 
 | **Epics / Question Categories** | **Questions** |
 | -- | ------------- |
