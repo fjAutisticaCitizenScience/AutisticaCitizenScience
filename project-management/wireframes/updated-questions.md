@@ -26,6 +26,30 @@ Please email the questions and answers to either or both Georgia Aitkenhead at g
 **Caveat - Please feel free to answer as much or as little as you are comforatble in completing feedback on.**
 #
 
+## Visual Reference - Please watch the Sprint Video Demos as links below:
+
+## Sprint 1
+
+**Sprint 1 Goal: Creation of  platform wireframe design**<br>
+**Sprint 1 Demo Video: https://youtu.be/4f6kn5HLysc**
+#
+#
+
+## Sprint 2
+
+**Sprint Goal: Project processes documentation & Github**<br>
+**Sprint 2 Demo Video: https://youtu.be/A_6uOwFZRfo**
+#
+#
+
+## Sprint 3
+
+**Sprint 03 Goal: On boarding of development team & community feedback process**<br>
+**Sprint 03 = https://youtu.be/IG-Vq8m8ELA**
+#
+#
+
+
 **Sprints 1 – 3 Community Questions – Category Mapped Version**
 
 | **Epics / Question Categories** | **Questions** |
