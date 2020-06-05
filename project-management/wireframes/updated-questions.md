@@ -32,7 +32,9 @@ Please email the questions and answers to either or both Georgia Aitkenhead at g
 
 **Sprint 1 Goal: Creation of  platform wireframe design**<br>
 **Sprint 1 Demo Video: https://youtu.be/4f6kn5HLysc**
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+[![Watch the video](https://img.youtu.be/vi/4f6kn5HLysc/maxresdefault.jpg)](https://youtu.be/4f6kn5HLysc)
+
 #
 ## Sprint 2
 
