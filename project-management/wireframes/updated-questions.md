@@ -48,6 +48,8 @@ Please email the questions and answers to either or both Georgia Aitkenhead at g
 
 **Sprint 03 Goal: On boarding of development team & community feedback process**<br>
 **Sprint 03 = https://youtu.be/IG-Vq8m8ELA**
+
+[![Watch the video](https://img.youtube.com/vi/IG-Vq8m8ELA/maxresdefault.jpg)](https://youtu.be/IG-Vq8m8ELA)
 #
 
 
