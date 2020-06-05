@@ -40,6 +40,8 @@ Please email the questions and answers to either or both Georgia Aitkenhead at g
 
 **Sprint Goal: Project processes documentation & Github**<br>
 **Sprint 2 Demo Video: https://youtu.be/A_6uOwFZRfo**
+
+[![Watch the video](https://img.youtube.com/vi/A_6uOwFZRfo/maxresdefault.jpg)](https://youtu.be/A_6uOwFZRfo)
 #
 
 ## Sprint 3
