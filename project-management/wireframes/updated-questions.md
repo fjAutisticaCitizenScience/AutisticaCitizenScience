@@ -4,29 +4,32 @@ This file contains questions for the wider community on the wireframes that have
 
 **Small Glossary of terms:**
 
-Github is a tool where people build software<br>
-Sprint is a short, time-boxed period of work<br>
-Wireframe is a layout of a web page that demonstrates what elements will exist on key pages<br>
-Site Navigation is the method and process by which a user of the platform can access different areas or pages of the platform<br>
+**Github** is a tool where people build software<br>
+**Sprint** is a short, time-boxed period of work<br>
+**Wireframe** is a layout of a web page that demonstrates what elements will exist on key pages<br>
+**Site Navigation** is the method and process by which a user of the platform can access different areas or pages of the platform<br>
 
+## Feedback Options – Public & Private
 
-# Feedback Options – Public & Private
+### Public Feedback
+*Community to access Google Forms to provide feedback to the questions below please feel free to copy and paste:*
 
-# Public Feedback - Community to access Google Forms to provide feedback to the questions below please feel free to copy and paste
 https://bit.ly/AutisticaTuringCitSciForm
 
 Copy and paste the questions from Github Sprint page and add answers into the Google form if you are comfortable making them public. 
 
-# Private Feedback 
+### Private Feedback 
 
-Please email the questions and answers to either or both Georgia Aitkenhead at gaitkenhead@turing.ac.uk or Chris Legg at christopher.legg@fujitsu.com. Please can you also define why you are not happy to have this feedback made public in the email.
+Please email the questions and answers to either or both Georgia Aitkenhead at gaitkenhead@turing.ac.uk or Chris Legg at christopher.legg@fujitsu.com. It would help us if you could also let us know why you are not happy to have this feedback made public in the email.
 
 #
 
-**Caveat - Please feel free to answer as much or as little as you are comforatble in completing feedback on.**
+**Caveat - Please feel free to answer as much or as little as you are comforatble in completing feedback on. You can submit a one word answer if you like, or an extended answer if you prefer.**
+
 #
 
-## Visual Reference - Please watch the Sprint Video Demos as links below:
+## Visual Reference
+*Please watch the Sprint Video Demos as links below:*
 
 ## Sprint 1
 
